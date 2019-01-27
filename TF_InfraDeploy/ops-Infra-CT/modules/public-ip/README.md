@@ -1,0 +1,1 @@
+# Terraform Azure Public IP Module
